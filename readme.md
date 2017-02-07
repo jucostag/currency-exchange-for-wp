@@ -10,4 +10,4 @@ Clone this repository into your wordpress plugins directory and activate it. Use
 
 [ce-calculator]
 
-!["Currency Exchange Calculator Preview"]("http://pasteboard.co/vxT1YlbC3.jpg" "Currency Exchange Calculator Preview")
+![Currency Exchange Calculator Preview](https://cdn.pbrd.co/images/vxT1YlbC3.jpg)
