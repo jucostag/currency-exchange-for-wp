@@ -8,7 +8,13 @@ Plugin that provides a currency conversion calculator for wordpress based on inf
 
 ## How to get started?
 
-Clone this repository into your wordpress plugins directory and activate it. Use the shortcode as shown in the instructions below where you need it.
+Clone this repository into your wordpress plugins directory:
+
+```
+git clone --recursive
+```
+
+Activate the plugin on admin panel -> plugins, and use the shortcode as shown below where you need it.
 
 [ce-calculator]
 
