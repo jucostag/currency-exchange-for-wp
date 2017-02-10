@@ -1,0 +1,3 @@
+[submodule "currency-exchange-js"]
+	path = currency-exchange-js
+	url = https://github.com/jucostag/currency-exchange-js
