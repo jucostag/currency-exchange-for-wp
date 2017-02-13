@@ -4,7 +4,7 @@
 * Plugin Name: Currency Exchange for WP
 * Plugin URI: https://github.com/jucostag/currency-exchange-for-wp
 * Description: Provides a currency conversion calculator for wordpress based on information provided by Yahoo Finance Webservice API.
-* Version: 2.0
+* Version: 2.1.1
 * Author: Juliana Gonçalves
 * License: MIT
 */

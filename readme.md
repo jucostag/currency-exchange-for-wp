@@ -19,3 +19,11 @@ Activate the plugin on admin panel -> plugins, and use the shortcode as shown be
 [ce-calculator]
 
 ![Currency Exchange Calculator Preview](https://cdn.pbrd.co/images/vZZ82TmSj.png)
+
+#### Plugin update
+
+When you need to update the plugin, don't forget to run the line below for the [Currency Exchange JS](https://github.com/jucostag/currency-exchange-js).** submodule be updated as well.
+
+```
+git submodule update --init --recursive
+```
